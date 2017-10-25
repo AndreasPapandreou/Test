@@ -1,1 +1,1 @@
-# Test command commitme
+# Test command commitAndPush
