@@ -220,3 +220,4 @@ int ping(String command)
 WiFi.ping('www.google.gr');
 return 0;
 }
+
